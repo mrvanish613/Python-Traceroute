@@ -1,4 +1,4 @@
-```
+
 
 ### README File:
 ---
@@ -12,9 +12,9 @@ This script implements a basic traceroute functionality using the Scapy library 
 - Scapy library
 
 To install Scapy, run:
-```bash
+
 pip install scapy
-```
+
 
 ## Usage
 Run the script using Python 3. When prompted, enter the hostname or IP address of the target you want to trace the route to.
